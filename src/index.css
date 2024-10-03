@@ -8,6 +8,6 @@
 }
 .app {
   min-height: 100vh;
-  display: flex;
-  background: rgb(54, 52, 52);
+  display: grid;
+  background: rgb(222, 126, 42);
 }
